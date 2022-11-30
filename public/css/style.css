@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+html, body {
+    font-family: Kanit;
+}
+.login-form button {
+    width: 100%;
+    height: 34px;
+}
+
+nav {
+    margin-bottom: 44px;
+}
